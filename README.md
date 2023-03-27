@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm miyou
 - 🌱 I’m learning Flutter ~
-- 📫 Email: 2254235902@qq.com
+- 📫 Email: hhjiahao@gmail.com 2254235902@qq.com
 
 ### 💻 Environment
 [![MacOS](https://img.shields.io/badge/MacOS-4F4F4F?style=flat-square&logo=apple&labelColor=4F4F4F)](https://www.apple.com.cn/macos/ventura/)
